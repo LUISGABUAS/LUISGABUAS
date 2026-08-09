@@ -18,7 +18,7 @@
 ### About me
 
 I build end-to-end products — from iOS apps to web platforms — with a focus on clean UX and scalable architecture.  
-Currently working on **Expensia**, a personal finance iOS app, and enterprise ERP/SaaS systems at **NESB**.
+Currently working on **EXORA**, a personal finance iOS app, and enterprise ERP/SaaS systems at **NESB**.
 
 ---
 
