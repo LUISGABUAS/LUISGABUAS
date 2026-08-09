@@ -45,7 +45,7 @@ Currently working on **Expensia**, a personal finance iOS app, and enterprise ER
 
 | Project | Description | Stack |
 |---|---|---|
-| [Expensia](https://github.com/LUISGABUAS/EXORA) | Personal finance iOS app with AI insights and subscription model | Swift · Supabase · RevenueCat |
+| [EXORA](https://github.com/LUISGABUAS/EXORA) | Personal finance iOS app with AI insights and subscription model | Swift · Supabase · RevenueCat |
 | [SaaS Inventory](https://github.com/LUISGABUAS/saas-inventory) | Warehouse & sales management platform with role-based access | PHP · MySQL · Docker |
 | [ERP Sistema](https://github.com/LUISGABUAS/PROYECTO-V2) | Enterprise ERP for client, supplier, and inventory operations | PHP · MySQL |
 
@@ -54,6 +54,6 @@ Currently working on **Expensia**, a personal finance iOS app, and enterprise ER
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LUISGABUAS&show_icons=true&theme=github_dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUISGABUAS&layout=compact&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luisgabuas&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgabuas&layout=compact&theme=github_dark&hide_border=true" height="150" />
 </p>
