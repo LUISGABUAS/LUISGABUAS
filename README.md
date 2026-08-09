@@ -51,9 +51,8 @@ Currently working on **EXORA**, a personal finance iOS app, and enterprise ERP/S
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisgabuas&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgabuas&layout=compact&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LUISGABUAS&theme=github-compact&hide_border=true&area=true" />
 </p>
