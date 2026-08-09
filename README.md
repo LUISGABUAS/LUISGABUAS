@@ -51,6 +51,14 @@ Currently working on **EXORA**, a personal finance iOS app, and enterprise ERP/S
 
 ---
 
+### Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LUISGABUAS&theme=darkhub&no-frame=true&margin-w=10&row=1" />
+</p>
+
+---
+
 ### GitHub Activity
 
 <p align="center">
