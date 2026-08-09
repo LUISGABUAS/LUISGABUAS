@@ -17,7 +17,7 @@
 
 ### About me
 
-I build end-to-end products — from iOS apps to web platforms — with a focus on clean UX and scalable architecture.  
+ITS Student at **FIME UANL** · I build end-to-end products — from iOS apps to web platforms — with a focus on clean UX and scalable architecture.  
 Currently working on **EXORA**, a personal finance iOS app, and enterprise ERP/SaaS systems at **NESB**.
 
 ---
