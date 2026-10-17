@@ -2,8 +2,11 @@
 <h3 align="center">Full-Stack Developer & Mobile Engineer · NESB</h3>
 
 <p align="center">
+  <a href="https://luisgabuardi.pages.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-luisgabuardi.pages.dev-0d1117?style=for-the-badge&logo=cloudflarepages&logoColor=white" />
+  </a>
   <a href="https://nesb.com.mx" target="_blank">
-    <img src="https://img.shields.io/badge/Website-nesb.com.mx-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/NESB-nesb.com.mx-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/luis-felipe-alejandro-gabuardi-gonzalez-a482a4384/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Luis_Gabuardi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,8 +21,10 @@
 ### About me
 
 ITS Student at **FIME UANL** · I build end-to-end products — from iOS apps to web platforms — with a focus on clean UX and scalable architecture.  
-Currently working on **EXORA**, a personal finance app, and enterprise ERP/SaaS systems at **NESB**.
+Building enterprise ERP/SaaS systems at **NESB**.
 
+- 🏆 **HackMTY 2026 winner** with **VYGO**, an AI copilot for multi-app delivery couriers (Infosys challenge)
+- 📱 Shipped **EXORA Finances** to the [App Store](https://apps.apple.com/mx/app/exora-finances/id6781416549)
 - 🏙️ Building **Algorithm City**, a pixel-art RPG to learn Python, algorithms and LeetCode by writing real code
 - 🧠 Following a 24-week algorithms & data structures roadmap, from fundamentals to Big Tech interviews
 - 🚚 Built the full frontend (2D/3D visualization) for a load-optimization and consolidated-transport routing system
@@ -58,12 +63,13 @@ Currently working on **EXORA**, a personal finance app, and enterprise ERP/SaaS 
 
 | Project | Description | Stack |
 |---|---|---|
+| [VYGO](https://github.com/VYGO-Bug404/VYGO) 🏆 | **HackMTY 2026 winner.** Copilot for couriers working Uber Eats, Rappi and DiDi at once: an RL agent picks which orders to accept and bundles them into one route. $102/h → $169/h with 35% fewer km in a simulated 6-hour shift | React · TypeScript · MapLibre · Supabase · FastAPI |
+| [EXORA Finances](https://apps.apple.com/mx/app/exora-finances/id6781416549) | Personal finance app, live on the App Store: expenses, income, budgets and clear stats | React Native · TypeScript · Supabase · RevenueCat |
+| [Pacas Yadira](https://github.com/LUISGABUAS/PROYECTO-V2) | Warehouse, sales and logistics system for a client: barcode-tracked inventory, local and remote sales, deliveries, roles and audit log | PHP · MySQL · AdminLTE · Zebra ZPL |
 | [Algorithm City](https://github.com/LUISGABUAS/Algorithm-City) | Pixel-art RPG to learn Python, algorithms and LeetCode — guided lessons, in-browser editor with tests, spaced repetition | HTML · CSS · JavaScript |
-| [EXORA](https://github.com/LUISGABUAS/EXORA) | Personal finance app with AI insights and subscription model | React Native · TypeScript · Supabase · RevenueCat |
 | [Cubicación & Rutas](https://github.com/LUISGABUAS/Algoritmos-Cubicacion---Rutas-Transporte-Consolidado) | Load-optimization and route management for consolidated transport, with 2D/3D cargo visualization | React · TypeScript · Three.js · Tailwind |
 | [Learn Algorithms](https://github.com/LUISGABUAS/Learn_Algorithms) | My 24-week LeetCode roadmap with explained solutions and complexity analysis | Python |
 | [SaaS Inventory](https://github.com/LUISGABUAS/saas-inventory) | Warehouse & sales management platform with role-based access | PHP · MySQL · Docker |
-| [ERP Sistema](https://github.com/LUISGABUAS/PROYECTO-V2) | Enterprise ERP for client, supplier, and inventory operations | PHP · MySQL |
 
 ---
 
