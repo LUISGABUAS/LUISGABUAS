@@ -11,8 +11,8 @@
   <a href="https://www.linkedin.com/in/luis-felipe-alejandro-gabuardi-gonzalez-a482a4384/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Luis_Gabuardi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:luis209207@gmail.com">
-    <img src="https://img.shields.io/badge/Email-luis209207@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:gabuasluis@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gabuasluis@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
