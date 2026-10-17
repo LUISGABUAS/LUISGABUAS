@@ -18,7 +18,11 @@
 ### About me
 
 ITS Student at **FIME UANL** · I build end-to-end products — from iOS apps to web platforms — with a focus on clean UX and scalable architecture.  
-Currently working on **EXORA**, a personal finance iOS app, and enterprise ERP/SaaS systems at **NESB**.
+Currently working on **EXORA**, a personal finance app, and enterprise ERP/SaaS systems at **NESB**.
+
+- 🏙️ Building **Algorithm City**, a pixel-art RPG to learn Python, algorithms and LeetCode by writing real code
+- 🧠 Following a 24-week algorithms & data structures roadmap, from fundamentals to Big Tech interviews
+- 🚚 Built the full frontend (2D/3D visualization) for a load-optimization and consolidated-transport routing system
 
 ---
 
@@ -29,10 +33,19 @@ Currently working on **EXORA**, a personal finance iOS app, and enterprise ERP/S
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
-**Web**  
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+**Languages & Web**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Backend & Infra**  
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -45,7 +58,10 @@ Currently working on **EXORA**, a personal finance iOS app, and enterprise ERP/S
 
 | Project | Description | Stack |
 |---|---|---|
-| [EXORA](https://github.com/LUISGABUAS/EXORA) | Personal finance iOS app with AI insights and subscription model | Swift · Supabase · RevenueCat |
+| [Algorithm City](https://github.com/LUISGABUAS/Algorithm-City) | Pixel-art RPG to learn Python, algorithms and LeetCode — guided lessons, in-browser editor with tests, spaced repetition | HTML · CSS · JavaScript |
+| [EXORA](https://github.com/LUISGABUAS/EXORA) | Personal finance app with AI insights and subscription model | React Native · TypeScript · Supabase · RevenueCat |
+| [Cubicación & Rutas](https://github.com/LUISGABUAS/Algoritmos-Cubicacion---Rutas-Transporte-Consolidado) | Load-optimization and route management for consolidated transport, with 2D/3D cargo visualization | React · TypeScript · Three.js · Tailwind |
+| [Learn Algorithms](https://github.com/LUISGABUAS/Learn_Algorithms) | My 24-week LeetCode roadmap with explained solutions and complexity analysis | Python |
 | [SaaS Inventory](https://github.com/LUISGABUAS/saas-inventory) | Warehouse & sales management platform with role-based access | PHP · MySQL · Docker |
 | [ERP Sistema](https://github.com/LUISGABUAS/PROYECTO-V2) | Enterprise ERP for client, supplier, and inventory operations | PHP · MySQL |
 
