@@ -63,7 +63,7 @@ Building enterprise ERP/SaaS systems at **NESB**.
 
 | Project | Description | Stack |
 |---|---|---|
-| [VYGO](https://github.com/VYGO-Bug404/VYGO) 🏆 | **HackMTY 2026 winner.** Copilot for couriers working Uber Eats, Rappi and DiDi at once: an RL agent picks which orders to accept and bundles them into one route. $102/h → $169/h with 35% fewer km in a simulated 6-hour shift | React · TypeScript · MapLibre · Supabase · FastAPI |
+| [VYGO](https://github.com/VYGO-Bug404/VYGO) 🏆 | **HackMTY 2026 winner.** Copilot for couriers working Uber Eats, Rappi and DiDi at once: an RL agent picks which orders to accept and bundles them into one route. $102/h → $356/h with 35% fewer km in a simulated 6-hour shift | React · TypeScript · MapLibre · Supabase · FastAPI |
 | [EXORA Finances](https://apps.apple.com/mx/app/exora-finances/id6781416549) | Personal finance app, live on the App Store: expenses, income, budgets and clear stats | React Native · TypeScript · Supabase · RevenueCat |
 | [Pacas Yadira](https://github.com/LUISGABUAS/PROYECTO-V2) | Warehouse, sales and logistics system for a client: barcode-tracked inventory, local and remote sales, deliveries, roles and audit log | PHP · MySQL · AdminLTE · Zebra ZPL |
 | [Algorithm City](https://github.com/LUISGABUAS/Algorithm-City) | Pixel-art RPG to learn Python, algorithms and LeetCode — guided lessons, in-browser editor with tests, spaced repetition | HTML · CSS · JavaScript |
